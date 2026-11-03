@@ -70,3 +70,6 @@ The current version supports the standard 3×3 8-puzzle and a fixed goal state. 
 
 # Author
 Name: Sachin Kumar
+
+# Clone Repo
+git clone https://github.com/SachinKumar-IT/ai-puzzle-solver.git
